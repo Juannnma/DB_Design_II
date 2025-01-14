@@ -1,0 +1,1828 @@
+{
+ "name": "Base de datos II 2021",
+ "type": "private_group",
+ "id": 487588276,
+ "messages": [
+  {
+   "id": 1359,
+   "type": "message",
+   "date": "2020-11-01T14:09:24",
+   "from": "Pablo Fracaro",
+   "from_id": "user830260616",
+   "text": "Y me esta trabando esto"
+  },
+  {
+   "id": 1360,
+   "type": "message",
+   "date": "2020-11-01T14:09:59",
+   "from": "Andrea Navarro (juncotic.com)",
+   "from_id": "user23471390",
+   "text": "Que error te da?"
+  },
+  {
+   "id": 1361,
+   "type": "message",
+   "date": "2020-11-01T14:10:23",
+   "from": "Julian Ariel Campana",
+   "from_id": "user925454557",
+   "text": "d/M/y H:m"
+  },
+  {
+   "id": 1362,
+   "type": "message",
+   "date": "2020-11-01T14:10:28",
+   "from": "Julian Ariel Campana",
+   "from_id": "user925454557",
+   "text": "Probalo así"
+  },
+  {
+   "id": 1363,
+   "type": "message",
+   "date": "2020-11-01T14:10:41",
+   "from": "Julian Ariel Campana",
+   "from_id": "user925454557",
+   "text": "Más genérico"
+  },
+  {
+   "id": 1364,
+   "type": "message",
+   "date": "2020-11-01T14:10:56",
+   "from": "Pablo Fracaro",
+   "from_id": "user830260616",
+   "photo": "(File not included. Change data exporting settings to download.)",
+   "width": 1280,
+   "height": 720,
+   "text": ""
+  },
+  {
+   "id": 1365,
+   "type": "message",
+   "date": "2020-11-01T14:11:01",
+   "from": "Pablo Fracaro",
+   "from_id": "user830260616",
+   "text": "Ese es el error"
+  },
+  {
+   "id": 1366,
+   "type": "message",
+   "date": "2020-11-01T14:11:37",
+   "from": "Ornella Grasso",
+   "from_id": "user741547599",
+   "text": "Me podrías mostrar tu archivo como tenes el dia configurado de la primer traba pablo"
+  },
+  {
+   "id": 1367,
+   "type": "message",
+   "date": "2020-11-01T14:11:56",
+   "from": "Ornella Grasso",
+   "from_id": "user741547599",
+   "text": "Porq por lo visto seria d/MM/yy"
+  },
+  {
+   "id": 1368,
+   "type": "message",
+   "date": "2020-11-01T14:12:09",
+   "from": "Ornella Grasso",
+   "from_id": "user741547599",
+   "text": "Parte de la fecha"
+  },
+  {
+   "id": 1369,
+   "type": "message",
+   "date": "2020-11-01T14:12:20",
+   "from": "Julian Ariel Campana",
+   "from_id": "user925454557",
+   "text": "Con poner una sola letra te toma el resto"
+  },
+  {
+   "id": 1370,
+   "type": "message",
+   "date": "2020-11-01T14:12:39",
+   "from": "Pablo Fracaro",
+   "from_id": "user830260616",
+   "photo": "(File not included. Change data exporting settings to download.)",
+   "width": 720,
+   "height": 1280,
+   "text": ""
+  },
+  {
+   "id": 1371,
+   "type": "message",
+   "date": "2020-11-01T14:12:52",
+   "from": "Ornella Grasso",
+   "from_id": "user741547599",
+   "text": "Proba como dije el juli"
+  },
+  {
+   "id": 1372,
+   "type": "message",
+   "date": "2020-11-01T14:13:13",
+   "from": "Pablo Fracaro",
+   "from_id": "user830260616",
+   "text": "Lo acabo de hacer y me tira error"
+  },
+  {
+   "id": 1373,
+   "type": "message",
+   "date": "2020-11-01T14:13:20",
+   "from": "Ornella Grasso",
+   "from_id": "user741547599",
+   "text": "Entonces como te puse yo"
+  },
+  {
+   "id": 1374,
+   "type": "message",
+   "date": "2020-11-01T14:13:52",
+   "from": "Ornella Grasso",
+   "from_id": "user741547599",
+   "text": "Porq tuvimos ese inconveniente y lo fuimos solucionando de esa forma"
+  },
+  {
+   "id": 1375,
+   "type": "message",
+   "date": "2020-11-01T14:13:59",
+   "from": "Andrea Navarro (juncotic.com)",
+   "from_id": "user23471390",
+   "text": "El mes está en formato de 2 cifras"
+  },
+  {
+   "id": 1376,
+   "type": "message",
+   "date": "2020-11-01T14:14:21",
+   "from": "Ornella Grasso",
+   "from_id": "user741547599",
+   "text": "El dia lo tenss con dos cifras o con una?"
+  },
+  {
+   "id": 1377,
+   "type": "message",
+   "date": "2020-11-01T14:14:34",
+   "from": "Pablo Fracaro",
+   "from_id": "user830260616",
+   "text": "Dos cifras"
+  },
+  {
+   "id": 1378,
+   "type": "message",
+   "date": "2020-11-01T14:14:40",
+   "from": "Pablo Fracaro",
+   "from_id": "user830260616",
+   "text": "Todo con dos cifras"
+  },
+  {
+   "id": 1379,
+   "type": "message",
+   "date": "2020-11-01T14:14:48",
+   "from": "Ornella Grasso",
+   "from_id": "user741547599",
+   "text": "dd/MM/yy proba"
+  },
+  {
+   "id": 1380,
+   "type": "message",
+   "date": "2020-11-01T14:15:20",
+   "from": "Pablo Fracaro",
+   "from_id": "user830260616",
+   "text": "Ahora lo pruebo"
+  },
+  {
+   "id": 1381,
+   "type": "message",
+   "date": "2020-11-01T14:15:58",
+   "from": "Jonatankon",
+   "from_id": "user890143523",
+   "text": "André solo te mandamos el PDF verdad??"
+  },
+  {
+   "id": 1382,
+   "type": "message",
+   "date": "2020-11-01T14:16:07",
+   "from": "Andrea Navarro (juncotic.com)",
+   "from_id": "user23471390",
+   "text": "Si si"
+  },
+  {
+   "id": 1383,
+   "type": "message",
+   "date": "2020-11-01T14:16:33",
+   "from": "Jonatankon",
+   "from_id": "user890143523",
+   "text": "Joya enseguida lo subo"
+  },
+  {
+   "id": 1384,
+   "type": "message",
+   "date": "2020-11-01T14:18:41",
+   "from": "Julian Ariel Campana",
+   "from_id": "user925454557",
+   "text": [
+    {
+     "type": "link",
+     "text": "https://docs.oracle.com/javase/8/docs/api/java/time/format/DateTimeFormatter.html"
+    }
+   ]
+  },
+  {
+   "id": 1385,
+   "type": "message",
+   "date": "2020-11-01T14:18:50",
+   "from": "Julian Ariel Campana",
+   "from_id": "user925454557",
+   "text": "Documentacion de como formatear fecha y hora"
+  },
+  {
+   "id": 1386,
+   "type": "message",
+   "date": "2020-11-01T14:18:51",
+   "from": "Pablo Fracaro",
+   "from_id": "user830260616",
+   "text": "Ya lo solucione, esta mal un valor de la hora"
+  },
+  {
+   "id": 1387,
+   "type": "message",
+   "date": "2020-11-01T14:20:55",
+   "from": "Pablo Fracaro",
+   "from_id": "user830260616",
+   "photo": "(File not included. Change data exporting settings to download.)",
+   "width": 720,
+   "height": 1280,
+   "text": "Aunque no se porque me lo puso con esta forma"
+  },
+  {
+   "id": 1388,
+   "type": "message",
+   "date": "2020-11-01T14:21:56",
+   "from": "Jonatankon",
+   "from_id": "user890143523",
+   "text": "Ahí modifícalo vos y déjala simplificada"
+  },
+  {
+   "id": 1389,
+   "type": "message",
+   "date": "2020-11-02T10:59:01",
+   "from": "Pablo Fracaro",
+   "from_id": "user830260616",
+   "text": [
+    "Buen dia, profe ",
+    {
+     "type": "mention",
+     "text": "@andreanavarro"
+    },
+    " le queria consultar una cosa, cuando quiero hacer el procesamiento de texto me suceden estas cosas:\n1. De procesar palabra por palabra me procesa por frases completas\n2. El procesador de texto no logra identificar nada (me lo pone como vacio o nulo) y no logro extraer nada"
+   ]
+  },
+  {
+   "id": 1390,
+   "type": "message",
+   "date": "2020-11-02T16:40:59",
+   "from": "Gabriel Arenas 🇦🇷",
+   "from_id": "user192620519",
+   "text": "Buenas tardes chicos,  hacemos un meet a las 17:30,  les paso link en unos minutos"
+  },
+  {
+   "id": 1391,
+   "type": "message",
+   "date": "2020-11-02T16:41:04",
+   "from": "Andrea Navarro (juncotic.com)",
+   "from_id": "user23471390",
+   "text": "Para el lunes que viene tienen que entregar lo que les falte, o lo que les he marcado para arreglar. Los que no han hecho la presentación de hoy tienen que subirla en formato de video al grupo y entregar el pdf."
+  },
+  {
+   "id": 1392,
+   "type": "message",
+   "date": "2020-11-02T16:41:23",
+   "from": "Andrea Navarro (juncotic.com)",
+   "from_id": "user23471390",
+   "text": "Los que tengan todo aprobado no tienen que venir conmigo el lunes que viene."
+  },
+  {
+   "id": 1393,
+   "type": "message",
+   "date": "2020-11-02T17:03:29",
+   "from": "Gabriel Arenas 🇦🇷",
+   "from_id": "user192620519",
+   "text": [
+    "link del meet  ",
+    {
+     "type": "link",
+     "text": "https://meet.google.com/ztb-dzth-vcg"
+    }
+   ]
+  },
+  {
+   "id": 1394,
+   "type": "message",
+   "date": "2020-11-02T17:36:36",
+   "from": "Gabriel Arenas 🇦🇷",
+   "from_id": "user192620519",
+   "text": [
+    {
+     "type": "link",
+     "text": "https://dev.mysql.com/doc/index-other.html"
+    }
+   ]
+  },
+  {
+   "id": 1395,
+   "type": "message",
+   "date": "2020-11-02T17:49:59",
+   "from": "Marcos Adrián Rugoso",
+   "from_id": "user1052727325",
+   "text": "Grupo: \nMarcos Rugoso\nOrnella Grasso\nJulian Campana\nRamiro Pintos De Nucci"
+  },
+  {
+   "id": 1396,
+   "type": "message",
+   "date": "2020-11-02T17:51:37",
+   "from": "Marcos Adrián Rugoso",
+   "from_id": "user1052727325",
+   "text": "Nosotros vamos a usar base de datos sakilla"
+  },
+  {
+   "id": 1397,
+   "type": "message",
+   "date": "2020-11-02T17:52:35",
+   "from": "Marcos Adrián Rugoso",
+   "from_id": "user1052727325",
+   "text": "Sakila*"
+  },
+  {
+   "id": 1398,
+   "type": "message",
+   "date": "2020-11-02T21:03:42",
+   "from": "Esteban",
+   "from_id": "user859940597",
+   "text": "Grupo: \n- Jonatan Kondratiuk\n- Lucila Martinez\n- Yoel Fernandez\n- Esteban Rivas\n\nBase de datos elegida: employee data"
+  },
+  {
+   "id": 1399,
+   "type": "message",
+   "date": "2020-11-02T21:11:07",
+   "from": "Matias Ruiz",
+   "from_id": "user857392417",
+   "text": "Grupo:\n- Matias Ruiz\n- Axel Guyot\n- Bruno Rosales"
+  },
+  {
+   "id": 1400,
+   "type": "message",
+   "date": "2020-11-02T21:11:34",
+   "from": "Gabriel Arenas 🇦🇷",
+   "from_id": "user192620519",
+   "text": "No se olviden de indicar la base de datos elegida"
+  },
+  {
+   "id": 1401,
+   "type": "message",
+   "date": "2020-11-02T21:12:03",
+   "from": "Matias Ruiz",
+   "from_id": "user857392417",
+   "text": "se usar una base de datos personal?"
+  },
+  {
+   "id": 1402,
+   "type": "message",
+   "date": "2020-11-02T21:12:22",
+   "from": "Matias Ruiz",
+   "from_id": "user857392417",
+   "text": "una propia nuestra"
+  },
+  {
+   "id": 1403,
+   "type": "message",
+   "date": "2020-11-02T21:12:40",
+   "from": "Matias Ruiz",
+   "from_id": "user857392417",
+   "text": "se puede*"
+  },
+  {
+   "id": 1404,
+   "type": "message",
+   "date": "2020-11-02T21:14:38",
+   "from": "Gabriel Arenas 🇦🇷",
+   "from_id": "user192620519",
+   "text": "Si,  se puede,  tiene que tener buena cantidad de información,  que permita hacer un análisis de al menos tres dimensiones,  o sea visualizar tres aspectos de los datos cargados"
+  },
+  {
+   "id": 1405,
+   "type": "message",
+   "date": "2020-11-02T21:15:04",
+   "from": "Matias Ruiz",
+   "from_id": "user857392417",
+   "text": "Que cantidad minima de registros?"
+  },
+  {
+   "id": 1406,
+   "type": "message",
+   "date": "2020-11-02T21:27:08",
+   "from": "Gabriel Arenas 🇦🇷",
+   "from_id": "user192620519",
+   "text": "al menos la tabla de movimientos debe tener unos 50000 registos"
+  },
+  {
+   "id": 1407,
+   "type": "message",
+   "date": "2020-11-02T21:28:01",
+   "from": "Matias Ruiz",
+   "from_id": "user857392417",
+   "text": "No hay problema profe"
+  },
+  {
+   "id": 1408,
+   "type": "message",
+   "date": "2020-11-02T21:32:21",
+   "from": "Gabriel Arenas 🇦🇷",
+   "from_id": "user192620519",
+   "text": "ok entonces 👌"
+  },
+  {
+   "id": 1409,
+   "type": "message",
+   "date": "2020-11-03T00:57:07",
+   "from": "Pablo Fracaro",
+   "from_id": "user830260616",
+   "text": [
+    "Profe ",
+    {
+     "type": "mention",
+     "text": "@gabrielFArenas"
+    },
+    " estoy en este grupo"
+   ]
+  },
+  {
+   "id": 1410,
+   "type": "message",
+   "date": "2020-11-03T11:14:19",
+   "from": "Gabriel Arenas 🇦🇷",
+   "from_id": "user192620519",
+   "text": "Estimados,  necesito que los siguintes alumnos ,  definan en el día de hoy cómo van a realizar el trabajo integrador:\n\nAGUILERA,Enzo Lautaro\nALMONACID,Gabriel Emmanuel\nASCURRA,Daiana Elisabeth\nGIANDINOTO,Ramiro Alberto\nLÓPEZ,Fernando Simón\nPARDO,Federico Iván\nRIBEIRO,Lucas Gabriel"
+  },
+  {
+   "id": 1411,
+   "type": "message",
+   "date": "2020-11-03T15:50:52",
+   "from": "Gabriel Almonacid",
+   "from_id": "user1118460965",
+   "text": "Yo voy a ser solo y voy a utilizar la base de datos world_x"
+  },
+  {
+   "id": 1412,
+   "type": "message",
+   "date": "2020-11-03T18:38:06",
+   "from": "Daiana Ascurra",
+   "from_id": "user867417470",
+   "text": "Grupo:\n-Lopez\n-Ascurra\nBase de datos a utilizar: shakespeare"
+  },
+  {
+   "id": 1413,
+   "type": "message",
+   "date": "2020-11-03T19:59:27",
+   "from": "Gabriel Arenas 🇦🇷",
+   "from_id": "user192620519",
+   "text": "Me falta respuestas de Aguilera,  Enzo y Ribeiro, Lucas"
+  },
+  {
+   "id": 1414,
+   "type": "message",
+   "date": "2020-11-06T18:43:02",
+   "from": "Matias Ruiz",
+   "from_id": "user857392417",
+   "file": "(File not included. Change data exporting settings to download.)",
+   "thumbnail": "(File not included. Change data exporting settings to download.)",
+   "media_type": "video_file",
+   "mime_type": "video/mp4",
+   "duration_seconds": 386,
+   "width": 1920,
+   "height": 1080,
+   "text": "Video explicativo y conclusiones del Trabajo Practico 7 (Diseño de Bases de Datos II)"
+  },
+  {
+   "id": 1415,
+   "type": "message",
+   "date": "2020-11-06T19:00:41",
+   "from": "Andrea Navarro (juncotic.com)",
+   "from_id": "user23471390",
+   "text": "Hola Matías! No me quedó claro en el punto que haces el tiempo de respuesta. Porque según explicas más abajo es un promedio de mensajes enviados en un rango de tiempo que no sería lo mismo."
+  },
+  {
+   "id": 1416,
+   "type": "message",
+   "date": "2020-11-06T19:00:49",
+   "from": "Andrea Navarro (juncotic.com)",
+   "from_id": "user23471390",
+   "text": "Cómo hiciste ese cálculo?"
+  },
+  {
+   "id": 1417,
+   "type": "message",
+   "date": "2020-11-06T19:17:52",
+   "from": "Matias Ruiz",
+   "from_id": "user857392417",
+   "text": "Me equivoque en la interpretacion del resultado.\n\nCalculo la diferencia de tiempo entre una fila y la otra, una vez que estan calculados los tiempos (en minutos) agrupo por persona, en el agrupamiento le digo que calcule el promedio de retardo entre mensajes. Puse promedio pero podria haber puesto la suma\n\nPor otro lado me equivoque en la interpretacion. ya que fausto demoro mas en responder. me equivoque porque vi los tiempos de demora y veia en mi nombre numeros grandes. pero resulta que en la cantidad es al reves. Esto es porque hay dias que no he hablado con el y yo fui el ultimo en responder y ese tiempo se ha contado a favor mio"
+  },
+  {
+   "id": 1418,
+   "type": "message",
+   "date": "2020-11-06T19:19:32",
+   "from": "Matias Ruiz",
+   "from_id": "user857392417",
+   "file": "(File not included. Change data exporting settings to download.)",
+   "thumbnail": "(File not included. Change data exporting settings to download.)",
+   "mime_type": "image/png",
+   "width": 910,
+   "height": 655,
+   "text": "Este seria el grafico correcto"
+  },
+  {
+   "id": 1419,
+   "type": "message",
+   "date": "2020-11-08T21:02:38",
+   "from": "Pablo Fracaro",
+   "from_id": "user830260616",
+   "text": [
+    "Buenas tardes profe ",
+    {
+     "type": "mention",
+     "text": "@gabrielFArenas"
+    },
+    " , le queria consultar como podemos agregar nuestra base de datos a kibana?"
+   ]
+  },
+  {
+   "id": 1420,
+   "type": "message",
+   "date": "2020-11-08T21:02:59",
+   "from": "Pablo Fracaro",
+   "from_id": "user830260616",
+   "text": "Ya que no nos sale la herramienta o la opcion de agregar la base de datos"
+  },
+  {
+   "id": 1421,
+   "type": "message",
+   "date": "2020-11-08T21:24:18",
+   "from": "Daiana Ascurra",
+   "from_id": "user867417470",
+   "file": "(File not included. Change data exporting settings to download.)",
+   "thumbnail": "(File not included. Change data exporting settings to download.)",
+   "media_type": "video_file",
+   "mime_type": "video/mp4",
+   "duration_seconds": 492,
+   "width": 1364,
+   "height": 768,
+   "text": "Les dejo mi explicación sobre el Trabajo Nº7 Análisis de Interacción"
+  },
+  {
+   "id": 1422,
+   "type": "message",
+   "date": "2020-11-08T21:54:31",
+   "from": "Gabriel Arenas 🇦🇷",
+   "from_id": "user192620519",
+   "text": "Tienen que armar una vista y exportar los datos como texto"
+  },
+  {
+   "id": 1423,
+   "type": "message",
+   "date": "2020-11-09T17:06:06",
+   "from": "Esteban",
+   "from_id": "user859940597",
+   "text": [
+    "Hola, profe ",
+    {
+     "type": "mention",
+     "text": "@gabrielFArenas"
+    },
+    ". Cómo sabemos si quedamos regulares?"
+   ]
+  },
+  {
+   "id": 1424,
+   "type": "message",
+   "date": "2020-11-09T17:08:13",
+   "from": "Gabriel Arenas 🇦🇷",
+   "from_id": "user192620519",
+   "text": "Hola chicos,  entre hoy y mañana termino de corregir los trabajos y paso las regularidades,  les informo por acá"
+  },
+  {
+   "id": 1425,
+   "type": "message",
+   "date": "2020-11-09T17:08:59",
+   "from": "Esteban",
+   "from_id": "user859940597",
+   "text": "Buenisimo, profe. Gracias."
+  },
+  {
+   "id": 1426,
+   "type": "message",
+   "date": "2020-11-09T17:09:14",
+   "from": "Ornella Grasso",
+   "from_id": "user741547599",
+   "text": "Genial profe. Gracias"
+  },
+  {
+   "id": 1427,
+   "type": "message",
+   "date": "2020-11-09T17:10:42",
+   "from": "Gabriel Arenas 🇦🇷",
+   "from_id": "user192620519",
+   "text": "Tienen tiempo hasta esta noche a las 23:59 para presentar el último trabajo sobre kibana,  los que no lo hayan hecho"
+  },
+  {
+   "id": 1428,
+   "type": "message",
+   "date": "2020-11-10T20:13:31",
+   "from": "Gabriel Almonacid",
+   "from_id": "user1118460965",
+   "text": [
+    {
+     "type": "link",
+     "text": "https://youtu.be/1cH-IVBQf0E"
+    }
+   ]
+  },
+  {
+   "id": 1429,
+   "type": "message",
+   "date": "2020-11-10T20:29:05",
+   "from": "Andrea Navarro (juncotic.com)",
+   "from_id": "user23471390",
+   "text": "Genial!!"
+  },
+  {
+   "id": 1430,
+   "type": "message",
+   "date": "2020-11-12T20:41:25",
+   "from": "Pablo Fracaro",
+   "from_id": "user830260616",
+   "text": "hola buenas noches, le queria consultar con respecto a la regularidad"
+  },
+  {
+   "id": 1431,
+   "type": "message",
+   "date": "2020-11-12T20:43:20",
+   "from": "Gabriel Arenas 🇦🇷",
+   "from_id": "user192620519",
+   "text": "Hola Pablo,  para la próxima semana estarán informadas"
+  },
+  {
+   "id": 1432,
+   "type": "message",
+   "date": "2020-11-12T20:48:00",
+   "from": "Pablo Fracaro",
+   "from_id": "user830260616",
+   "text": "genial profe 👍"
+  },
+  {
+   "id": 1433,
+   "type": "message",
+   "date": "2020-11-27T14:01:23",
+   "from": "Gabriel Arenas 🇦🇷",
+   "from_id": "user192620519",
+   "text": "Buenas tardes,  los que rinden favor de conectarse a la cátedra virtual"
+  },
+  {
+   "id": 1434,
+   "type": "message",
+   "date": "2020-11-27T14:01:43",
+   "from": "Jonatankon",
+   "from_id": "user890143523",
+   "text": "Habilita a las 21"
+  },
+  {
+   "id": 1435,
+   "type": "message",
+   "date": "2020-11-27T14:01:51",
+   "from": "Esteban",
+   "from_id": "user859940597",
+   "photo": "(File not included. Change data exporting settings to download.)",
+   "width": 581,
+   "height": 247,
+   "text": ""
+  },
+  {
+   "id": 1436,
+   "type": "message",
+   "date": "2020-11-27T14:02:10",
+   "from": "Pablo Fracaro",
+   "from_id": "user830260616",
+   "text": "me pasa lo mismo"
+  },
+  {
+   "id": 1437,
+   "type": "message",
+   "date": "2020-11-27T14:11:51",
+   "from": "Jonatankon",
+   "from_id": "user890143523",
+   "text": "Profe me puede responder??"
+  },
+  {
+   "id": 1438,
+   "type": "message",
+   "date": "2020-11-27T14:13:33",
+   "from": "Gabriel Arenas 🇦🇷",
+   "from_id": "user192620519",
+   "text": [
+    {
+     "type": "link",
+     "text": "meet.google.com/dov-wvgg-bgr"
+    }
+   ]
+  },
+  {
+   "id": 1439,
+   "type": "message",
+   "date": "2020-11-27T17:51:56",
+   "from": "Gabriel Arenas 🇦🇷",
+   "from_id": "user192620519",
+   "text": "Matías Ruiz, conectate"
+  },
+  {
+   "id": 1440,
+   "type": "message",
+   "date": "2020-11-27T17:52:04",
+   "from": "Matias Ruiz",
+   "from_id": "user857392417",
+   "text": "Si"
+  },
+  {
+   "id": 1441,
+   "type": "message",
+   "date": "2020-11-27T18:04:46",
+   "from": "Gabriel Arenas 🇦🇷",
+   "from_id": "user192620519",
+   "text": "Esteban Rivas  conectate"
+  },
+  {
+   "id": 1442,
+   "type": "message",
+   "date": "2020-11-27T18:18:10",
+   "from": "Gabriel Arenas 🇦🇷",
+   "from_id": "user192620519",
+   "text": "Julian Campana conectate"
+  },
+  {
+   "id": 1443,
+   "type": "message",
+   "date": "2020-11-27T18:24:26",
+   "from": "Gabriel Arenas 🇦🇷",
+   "from_id": "user192620519",
+   "text": "Jonatan Kondratiuk,  conectate"
+  },
+  {
+   "id": 1444,
+   "type": "message",
+   "date": "2020-11-27T18:31:09",
+   "from": "Gabriel Arenas 🇦🇷",
+   "from_id": "user192620519",
+   "text": "Pablo Fracaro,  conectate"
+  },
+  {
+   "id": 1445,
+   "type": "message",
+   "date": "2020-11-27T18:31:25",
+   "from": "Pablo Fracaro",
+   "from_id": "user830260616",
+   "text": "ahora me conecto"
+  },
+  {
+   "id": 1446,
+   "type": "message",
+   "date": "2020-11-27T18:50:21",
+   "from": "Gabriel Arenas 🇦🇷",
+   "from_id": "user192620519",
+   "text": "Yoel Fernández,  conectat"
+  },
+  {
+   "id": 1447,
+   "type": "message",
+   "date": "2020-11-27T18:50:24",
+   "from": "Yoel",
+   "from_id": "user921643917",
+   "text": "ok"
+  },
+  {
+   "id": 1448,
+   "type": "service",
+   "date": "2021-08-09T12:44:29",
+   "actor": "Gabriel Arenas 🇦🇷",
+   "actor_id": "user192620519",
+   "action": "invite_members",
+   "members": [
+    "Daniel Beato"
+   ],
+   "text": ""
+  },
+  {
+   "id": 1452,
+   "type": "service",
+   "date": "2021-08-09T14:17:54",
+   "actor": "Santiago Riera",
+   "actor_id": "user805229404",
+   "action": "join_group_by_link",
+   "inviter": "Group",
+   "text": ""
+  },
+  {
+   "id": 1453,
+   "type": "service",
+   "date": "2021-08-09T15:35:12",
+   "actor": "Lucas Galdame",
+   "actor_id": "user1106773171",
+   "action": "join_group_by_link",
+   "inviter": "Group",
+   "text": ""
+  },
+  {
+   "id": 1454,
+   "type": "service",
+   "date": "2021-08-09T15:35:59",
+   "actor": "Santi Moyano",
+   "actor_id": "user1133947710",
+   "action": "join_group_by_link",
+   "inviter": "Group",
+   "text": ""
+  },
+  {
+   "id": 1455,
+   "type": "service",
+   "date": "2021-08-09T15:36:50",
+   "actor": "Jose Rutti",
+   "actor_id": "user1274646303",
+   "action": "join_group_by_link",
+   "inviter": "Group",
+   "text": ""
+  },
+  {
+   "id": 1456,
+   "type": "service",
+   "date": "2021-08-09T15:36:57",
+   "actor": "Delfina Quintero",
+   "actor_id": "user991384208",
+   "action": "join_group_by_link",
+   "inviter": "Group",
+   "text": ""
+  },
+  {
+   "id": 1457,
+   "type": "service",
+   "date": "2021-08-09T15:37:13",
+   "actor": "Enzo Fernandez",
+   "actor_id": "user1726569146",
+   "action": "join_group_by_link",
+   "inviter": "Group",
+   "text": ""
+  },
+  {
+   "id": 1458,
+   "type": "service",
+   "date": "2021-08-09T15:38:24",
+   "actor": "Lucas Ollarce",
+   "actor_id": "user623280426",
+   "action": "join_group_by_link",
+   "inviter": "Group",
+   "text": ""
+  },
+  {
+   "id": 1459,
+   "type": "service",
+   "date": "2021-08-09T15:39:00",
+   "actor": "Bruno Romero",
+   "actor_id": "user1133965522",
+   "action": "join_group_by_link",
+   "inviter": "Group",
+   "text": ""
+  },
+  {
+   "id": 1460,
+   "type": "service",
+   "date": "2021-08-09T16:27:09",
+   "actor": "Santiago Martinez",
+   "actor_id": "user807010702",
+   "action": "join_group_by_link",
+   "inviter": "Group",
+   "text": ""
+  },
+  {
+   "id": 1461,
+   "type": "service",
+   "date": "2021-08-09T16:28:36",
+   "actor": "Arian M",
+   "actor_id": "user597215828",
+   "action": "join_group_by_link",
+   "inviter": "Group",
+   "text": ""
+  },
+  {
+   "id": 1462,
+   "type": "message",
+   "date": "2021-08-09T16:33:34",
+   "from": "Andrea Navarro (juncotic.com)",
+   "from_id": "user23471390",
+   "text": "Hola chicos! Arrancamos la clase ahora a las16:30"
+  },
+  {
+   "id": 1463,
+   "type": "service",
+   "date": "2021-08-09T16:35:01",
+   "actor": "Danilo Cerna 2",
+   "actor_id": "user1751340097",
+   "action": "join_group_by_link",
+   "inviter": "Group",
+   "text": ""
+  },
+  {
+   "id": 1464,
+   "type": "service",
+   "date": "2021-08-09T16:37:36",
+   "actor": "Santiago Riera",
+   "actor_id": "user805229404",
+   "action": "invite_members",
+   "members": [
+    "Nicolás Olivares"
+   ],
+   "text": ""
+  },
+  {
+   "id": 1465,
+   "type": "message",
+   "date": "2021-08-09T16:38:09",
+   "from": "Ramiro Alberto Giandinoto",
+   "from_id": "user261745196",
+   "text": [
+    {
+     "type": "link",
+     "text": "https://meet.google.com/ymv-bhzy-fhv"
+    }
+   ]
+  },
+  {
+   "id": 1466,
+   "type": "service",
+   "date": "2021-08-09T16:47:31",
+   "actor": "Julián",
+   "actor_id": "user784162152",
+   "action": "join_group_by_link",
+   "inviter": "Group",
+   "text": ""
+  },
+  {
+   "id": 1467,
+   "type": "service",
+   "date": "2021-08-09T16:55:56",
+   "actor": "Douglas",
+   "actor_id": "user956019236",
+   "action": "join_group_by_link",
+   "inviter": "Group",
+   "text": ""
+  },
+  {
+   "id": 1468,
+   "type": "service",
+   "date": "2021-08-09T17:24:41",
+   "actor": "Juan Pablo Garcia",
+   "actor_id": "user793788846",
+   "action": "join_group_by_link",
+   "inviter": "Group",
+   "text": ""
+  },
+  {
+   "id": 1469,
+   "type": "message",
+   "date": "2021-08-09T17:30:34",
+   "from": "Ramiro Alberto Giandinoto",
+   "from_id": "user261745196",
+   "text": "Avisen para crear grupo"
+  },
+  {
+   "id": 1470,
+   "type": "message",
+   "date": "2021-08-09T17:30:52",
+   "from": "seba F",
+   "from_id": "user1005951679",
+   "text": [
+    {
+     "type": "bold",
+     "text": "Grupo:"
+    },
+    " Santiago Martinez, Facundo Luna, Sebastian Fernández"
+   ]
+  },
+  {
+   "id": 1471,
+   "type": "message",
+   "date": "2021-08-09T17:31:30",
+   "from": "Fede Pardo",
+   "from_id": "user260500871",
+   "text": "Vamos juntos ramiro"
+  },
+  {
+   "id": 1472,
+   "type": "message",
+   "date": "2021-08-09T17:31:31",
+   "from": "Fede Pardo",
+   "from_id": "user260500871",
+   "text": "?"
+  },
+  {
+   "id": 1473,
+   "type": "message",
+   "date": "2021-08-09T17:31:36",
+   "from": "Santiago Riera",
+   "from_id": "user805229404",
+   "text": [
+    {
+     "type": "bold",
+     "text": "Grupo: "
+    },
+    "Santiago Riera, Yago Maureira, Nicolás Olivares."
+   ]
+  },
+  {
+   "id": 1475,
+   "type": "service",
+   "date": "2021-08-09T17:32:04",
+   "actor": "Matias",
+   "actor_id": "user867670922",
+   "action": "join_group_by_link",
+   "inviter": "Group",
+   "text": ""
+  },
+  {
+   "id": 1476,
+   "type": "message",
+   "date": "2021-08-09T17:32:17",
+   "from": "Juan Pablo Garcia",
+   "from_id": "user793788846",
+   "text": "Grupo: Juan Pablo Garcia, Martin Ezequiel Garcia"
+  },
+  {
+   "id": 1477,
+   "type": "service",
+   "date": "2021-08-09T17:33:22",
+   "actor": "Yago",
+   "actor_id": "user810386556",
+   "action": "join_group_by_link",
+   "inviter": "Group",
+   "text": ""
+  },
+  {
+   "id": 1478,
+   "type": "service",
+   "date": "2021-08-09T17:33:28",
+   "actor": "Facu Luna",
+   "actor_id": "user672006577",
+   "action": "join_group_by_link",
+   "inviter": "Group",
+   "text": ""
+  },
+  {
+   "id": 1479,
+   "type": "message",
+   "date": "2021-08-09T17:33:40",
+   "from": "Ramiro Alberto Giandinoto",
+   "from_id": "user261745196",
+   "text": "Fede Pardo, José Ruti, Matías Quevedo, Ramiro Giandinoto"
+  },
+  {
+   "id": 1480,
+   "type": "service",
+   "date": "2021-08-09T17:34:53",
+   "actor": "Lautaro (Facu)",
+   "actor_id": "user858971037",
+   "action": "join_group_by_link",
+   "inviter": "Group",
+   "text": ""
+  },
+  {
+   "id": 1481,
+   "type": "message",
+   "date": "2021-08-09T17:36:48",
+   "from": "Arian M",
+   "from_id": "user597215828",
+   "text": "Alguno quedó sin grupo?"
+  },
+  {
+   "id": 1482,
+   "type": "message",
+   "date": "2021-08-09T17:36:51",
+   "from": "Lautaro (Facu)",
+   "from_id": "user858971037",
+   "text": "Grupo: giancarlo y lautaro"
+  },
+  {
+   "id": 1483,
+   "type": "message",
+   "date": "2021-08-09T17:37:47",
+   "edited": "2021-08-09T17:43:31",
+   "from": "Lucas Galdame",
+   "from_id": "user1106773171",
+   "text": "Grupo: Lucas g\nGaldame, Gaston Fenske y Daniel Beato"
+  },
+  {
+   "id": 1484,
+   "type": "message",
+   "date": "2021-08-09T17:38:16",
+   "from": "Julián",
+   "from_id": "user784162152",
+   "text": "Grupo: Delfina Quinteros y Julián Navarrete"
+  },
+  {
+   "id": 1485,
+   "type": "message",
+   "date": "2021-08-09T17:38:18",
+   "from": "Emiliano Muñoz",
+   "from_id": "user990387724",
+   "reply_to_message_id": 1481,
+   "text": "Estamos con lucas ollarce por si queres ser con nosotros"
+  },
+  {
+   "id": 1486,
+   "type": "service",
+   "date": "2021-08-09T17:38:53",
+   "actor": "Facu Luna",
+   "actor_id": "user672006577",
+   "action": "invite_members",
+   "members": [
+    "Matias Navarro"
+   ],
+   "text": ""
+  },
+  {
+   "id": 1487,
+   "type": "message",
+   "date": "2021-08-09T17:40:43",
+   "from": "Arian M",
+   "from_id": "user597215828",
+   "reply_to_message_id": 1485,
+   "text": "Bueno"
+  },
+  {
+   "id": 1488,
+   "type": "message",
+   "date": "2021-08-09T17:41:08",
+   "from": "Delfina Quintero",
+   "from_id": "user991384208",
+   "reply_to_message_id": 1484,
+   "text": "si alguien todavia no tiene grupo puede ser con nosotros"
+  },
+  {
+   "id": 1489,
+   "type": "message",
+   "date": "2021-08-09T17:41:35",
+   "from": "Emiliano Muñoz",
+   "from_id": "user990387724",
+   "text": "Grupo: Emiliano, Lucas Ollarce, Augusto"
+  },
+  {
+   "id": 1490,
+   "type": "message",
+   "date": "2021-08-09T17:43:12",
+   "from": "Danilo Cerna 2",
+   "from_id": "user1751340097",
+   "text": "Grupo: Arenas Douglas, Fernández Enzo, Cerna Verardo Danilo"
+  },
+  {
+   "id": 1491,
+   "type": "message",
+   "date": "2021-08-09T17:43:49",
+   "from": "Lucas Galdame",
+   "from_id": "user1106773171",
+   "reply_to_message_id": 1483,
+   "text": "Profe sume a gaston"
+  },
+  {
+   "id": 1492,
+   "type": "message",
+   "date": "2021-08-09T17:44:10",
+   "from": "Santi Moyano",
+   "from_id": "user1133947710",
+   "text": "Grupo: Bruno Romero, Santiago Moyano"
+  },
+  {
+   "id": 1493,
+   "type": "service",
+   "date": "2021-08-09T17:45:04",
+   "actor": "Ezee Facu",
+   "actor_id": "user1264815356",
+   "action": "join_group_by_link",
+   "inviter": "Group",
+   "text": ""
+  },
+  {
+   "id": 1494,
+   "type": "message",
+   "date": "2021-08-09T17:45:15",
+   "from": "Lucas Galdame",
+   "from_id": "user1106773171",
+   "reply_to_message_id": 1491,
+   "text": "Fenske"
+  },
+  {
+   "id": 1495,
+   "type": "message",
+   "date": "2021-08-09T17:48:53",
+   "from": "Douglas",
+   "from_id": "user956019236",
+   "reply_to_message_id": 1490,
+   "text": "Profe este grupo lo puso?"
+  },
+  {
+   "id": 1496,
+   "type": "message",
+   "date": "2021-08-09T17:53:20",
+   "from": "Andrea Navarro (juncotic.com)",
+   "from_id": "user23471390",
+   "text": "Usuario github: AndreaNavarroMoreno"
+  },
+  {
+   "id": 1497,
+   "type": "message",
+   "date": "2021-08-09T17:53:46",
+   "from": "Andrea Navarro (juncotic.com)",
+   "from_id": "user23471390",
+   "text": "Usuario gitlab: andrea.navarro"
+  },
+  {
+   "id": 1498,
+   "type": "message",
+   "date": "2021-08-09T17:57:08",
+   "from": "Fede Pardo",
+   "from_id": "user260500871",
+   "reply_to_message_id": 1479,
+   "text": "."
+  },
+  {
+   "id": 1499,
+   "type": "service",
+   "date": "2021-08-09T18:01:27",
+   "actor": "Giancarlo Galvarini",
+   "actor_id": "user1009916191",
+   "action": "join_group_by_link",
+   "inviter": "Group",
+   "text": ""
+  },
+  {
+   "id": 1564,
+   "type": "message",
+   "date": "2021-08-30T18:15:46",
+   "from": "Gabriel Arenas 🇦🇷",
+   "from_id": "user192620519",
+   "text": [
+    "chicos por favor pasen a este enlace Clases DBDII 2021\nLunes, 30 de agosto · 6:30 – 8:30pm\nInformación para unirse a Google Meet\nEnlace a la videollamada: ",
+    {
+     "type": "link",
+     "text": "https://meet.google.com/sis-mthu-zkk"
+    },
+    "\nO marca el:  (US) +1 ",
+    {
+     "type": "phone",
+     "text": "413-685-2636"
+    },
+    "  PIN:  308 245 832 #"
+   ]
+  },
+  {
+   "id": 1565,
+   "type": "service",
+   "date": "2021-08-30T18:26:55",
+   "actor": "Marcos Adrián Rugoso",
+   "actor_id": "user1052727325",
+   "action": "remove_members",
+   "members": [
+    "Marcos Adrián Rugoso"
+   ],
+   "text": ""
+  },
+  {
+   "id": 1572,
+   "type": "message",
+   "date": "2021-09-06T09:58:18",
+   "from": "Gabriel Arenas 🇦🇷",
+   "from_id": "user192620519",
+   "text": "Estimados alumnos,  el cuestionario sobre datawarehouse lo paso al lunes después de las mesas (20/09/2021)"
+  },
+  {
+   "id": 1573,
+   "type": "message",
+   "date": "2021-09-06T10:13:38",
+   "from": "Daniel Beato",
+   "from_id": "user1077377295",
+   "text": "Genial profe"
+  },
+  {
+   "id": 1574,
+   "type": "message",
+   "date": "2021-09-06T12:44:15",
+   "from": "Yago",
+   "from_id": "user810386556",
+   "text": "Bueno profe"
+  },
+  {
+   "id": 1575,
+   "type": "message",
+   "date": "2021-09-06T15:09:05",
+   "from": "Ramiro Alberto Giandinoto",
+   "from_id": "user261745196",
+   "text": "Gravias Profe"
+  },
+  {
+   "id": 1576,
+   "type": "message",
+   "date": "2021-09-06T18:08:51",
+   "from": "Gabriel Arenas 🇦🇷",
+   "from_id": "user192620519",
+   "text": "Chicos,  18:30 iniciamos el meet"
+  },
+  {
+   "id": 1577,
+   "type": "message",
+   "date": "2021-09-06T18:09:01",
+   "from": "Giancarlo Galvarini",
+   "from_id": "user1009916191",
+   "reply_to_message_id": 1576,
+   "text": "perfecto"
+  },
+  {
+   "id": 1578,
+   "type": "message",
+   "date": "2021-09-06T18:19:03",
+   "from": "Lucas Galdame",
+   "from_id": "user1106773171",
+   "text": "mismo link del otro dia??"
+  },
+  {
+   "id": 1579,
+   "type": "message",
+   "date": "2021-09-06T18:33:23",
+   "from": "Gabriel Arenas 🇦🇷",
+   "from_id": "user192620519",
+   "text": "Correcto, mismo link"
+  },
+  {
+   "id": 1580,
+   "type": "message",
+   "date": "2021-09-06T18:37:41",
+   "from": "Santiago Martinez",
+   "from_id": "user807010702",
+   "text": [
+    {
+     "type": "email",
+     "text": "s.martinez@alumno.um.edu.ar"
+    }
+   ]
+  },
+  {
+   "id": 1581,
+   "type": "message",
+   "date": "2021-09-06T18:37:51",
+   "from": "Giancarlo Galvarini",
+   "from_id": "user1009916191",
+   "text": [
+    {
+     "type": "email",
+     "text": "g.galvarini@alumno.um.edu.ar"
+    }
+   ]
+  },
+  {
+   "id": 1582,
+   "type": "message",
+   "date": "2021-09-06T18:37:55",
+   "from": "Bruno Romero",
+   "from_id": "user1133965522",
+   "text": [
+    {
+     "type": "email",
+     "text": "b.romero@alumno.um.edu.ar"
+    }
+   ]
+  },
+  {
+   "id": 1583,
+   "type": "message",
+   "date": "2021-09-06T18:38:00",
+   "from": "seba F",
+   "from_id": "user1005951679",
+   "text": [
+    {
+     "type": "email",
+     "text": "s.fernandez@alumno.um.edu.ar"
+    }
+   ]
+  },
+  {
+   "id": 1584,
+   "type": "message",
+   "date": "2021-09-06T18:38:10",
+   "from": "Delfina Quintero",
+   "from_id": "user991384208",
+   "text": [
+    {
+     "type": "email",
+     "text": "de.quinteros@alumno.um.edu.ar"
+    }
+   ]
+  },
+  {
+   "id": 1585,
+   "type": "message",
+   "date": "2021-09-06T18:38:10",
+   "from": "Ramiro Alberto Giandinoto",
+   "from_id": "user261745196",
+   "text": [
+    {
+     "type": "email",
+     "text": "r.giandinoto@alumno.um.edu.ar"
+    }
+   ]
+  },
+  {
+   "id": 1586,
+   "type": "message",
+   "date": "2021-09-06T18:38:16",
+   "from": "Daniel Beato",
+   "from_id": "user1077377295",
+   "text": [
+    {
+     "type": "email",
+     "text": "d.beato@alumno.um.edu.ar"
+    }
+   ]
+  },
+  {
+   "id": 1587,
+   "type": "message",
+   "date": "2021-09-06T18:38:20",
+   "from": "Lucas Galdame",
+   "from_id": "user1106773171",
+   "text": [
+    {
+     "type": "email",
+     "text": "l.galdame@alumno.um.edu.ar"
+    }
+   ]
+  },
+  {
+   "id": 1588,
+   "type": "message",
+   "date": "2021-09-06T18:38:21",
+   "from": "Matias",
+   "from_id": "user867670922",
+   "text": [
+    {
+     "type": "email",
+     "text": "m.quevedo@alumno.um.edu.ar"
+    }
+   ]
+  },
+  {
+   "id": 1589,
+   "type": "message",
+   "date": "2021-09-06T18:38:29",
+   "from": "Santiago Riera",
+   "from_id": "user805229404",
+   "text": [
+    {
+     "type": "email",
+     "text": "s.riera@alumno.um.edu.ar"
+    }
+   ]
+  },
+  {
+   "id": 1590,
+   "type": "message",
+   "date": "2021-09-06T18:38:30",
+   "from": "Lautaro (Facu)",
+   "from_id": "user858971037",
+   "text": [
+    {
+     "type": "email",
+     "text": "fl.gimenez@alumno.um.edu.ar"
+    }
+   ]
+  },
+  {
+   "id": 1591,
+   "type": "message",
+   "date": "2021-09-06T18:38:35",
+   "from": "Yago",
+   "from_id": "user810386556",
+   "text": [
+    {
+     "type": "email",
+     "text": "y.maureira@alumno.um.edu.ar"
+    }
+   ]
+  },
+  {
+   "id": 1592,
+   "type": "message",
+   "date": "2021-09-06T18:38:52",
+   "from": "Santi Moyano",
+   "from_id": "user1133947710",
+   "text": [
+    {
+     "type": "email",
+     "text": "s.moyano@alumno.um.edu.ar"
+    }
+   ]
+  },
+  {
+   "id": 1593,
+   "type": "message",
+   "date": "2021-09-06T18:39:01",
+   "from": "Lucas Ollarce",
+   "from_id": "user623280426",
+   "text": [
+    {
+     "type": "email",
+     "text": "l.ollarce@alumno.um.edu.ar"
+    }
+   ]
+  },
+  {
+   "id": 1594,
+   "type": "message",
+   "date": "2021-09-06T18:39:22",
+   "from": "Julián",
+   "from_id": "user784162152",
+   "text": [
+    {
+     "type": "email",
+     "text": "j.navarrete@alumno.um.edu.ar"
+    }
+   ]
+  },
+  {
+   "id": 1595,
+   "type": "message",
+   "date": "2021-09-06T18:39:50",
+   "edited": "2021-09-06T18:42:40",
+   "from": "Nicolás Olivares",
+   "from_id": "user774340913",
+   "text": [
+    {
+     "type": "email",
+     "text": "n.olivares@alumno.um.edu.ar"
+    }
+   ]
+  },
+  {
+   "id": 1596,
+   "type": "message",
+   "date": "2021-09-06T18:42:57",
+   "from": "Jose Rutti",
+   "from_id": "user1274646303",
+   "text": [
+    {
+     "type": "email",
+     "text": "j.ruti@alumno.um.edu.ar"
+    }
+   ]
+  },
+  {
+   "id": 1597,
+   "type": "message",
+   "date": "2021-09-06T19:04:47",
+   "from": "Fede Pardo",
+   "from_id": "user260500871",
+   "text": [
+    {
+     "type": "email",
+     "text": "f.pardo@alumno.um.edu.ar"
+    }
+   ]
+  },
+  {
+   "id": 1598,
+   "type": "message",
+   "date": "2021-09-06T19:05:12",
+   "from": "Douglas",
+   "from_id": "user956019236",
+   "text": [
+    {
+     "type": "email",
+     "text": "d.arenas@alumno.um.edu.ar"
+    }
+   ]
+  },
+  {
+   "id": 1599,
+   "type": "message",
+   "date": "2021-09-06T19:05:49",
+   "from": "Arian M",
+   "from_id": "user597215828",
+   "text": [
+    {
+     "type": "email",
+     "text": "a.misino@alumno.um.edu.ar"
+    }
+   ]
+  },
+  {
+   "id": 1600,
+   "type": "message",
+   "date": "2021-09-06T19:07:12",
+   "from": "Emiliano Muñoz",
+   "from_id": "user990387724",
+   "text": [
+    {
+     "type": "email",
+     "text": "e.munoz@alumno.um.edu.ar"
+    }
+   ]
+  },
+  {
+   "id": 1601,
+   "type": "message",
+   "date": "2021-09-06T19:07:21",
+   "from": "Enzo Fernandez",
+   "from_id": "user1726569146",
+   "text": [
+    {
+     "type": "email",
+     "text": "evm.fernandez@alumno.um.edu.ar"
+    }
+   ]
+  },
+  {
+   "id": 1602,
+   "type": "message",
+   "date": "2021-09-06T19:09:07",
+   "from": "Facu Luna",
+   "from_id": "user672006577",
+   "text": [
+    {
+     "type": "email",
+     "text": "f.luna@alumno.um.edu.ar"
+    }
+   ]
+  },
+  {
+   "id": 1612,
+   "type": "message",
+   "date": "2021-09-18T18:41:55",
+   "from": "Arian M",
+   "from_id": "user597215828",
+   "text": "Profe, buenas tardes"
+  },
+  {
+   "id": 1613,
+   "type": "message",
+   "date": "2021-09-18T18:42:21",
+   "from": "Arian M",
+   "from_id": "user597215828",
+   "text": "Ha subido las grabaciones de las primeras clases? Porque no me figuran en el Deive"
+  },
+  {
+   "id": 1614,
+   "type": "message",
+   "date": "2021-09-18T18:43:05",
+   "from": "Arian M",
+   "from_id": "user597215828",
+   "text": "(Profe Gabriel Arenas)"
+  },
+  {
+   "id": 1615,
+   "type": "message",
+   "date": "2021-09-18T18:44:15",
+   "from": "Arian M",
+   "from_id": "user597215828",
+   "text": "Drive*"
+  },
+  {
+   "id": 1616,
+   "type": "message",
+   "date": "2021-09-19T19:48:38",
+   "from": "Gabriel Arenas 🇦🇷",
+   "from_id": "user192620519",
+   "text": "Chicos,  el cuestionario no lo hacemos mañana,  les voy a dar un trabajo,  que tendrá fecha de presentación el lunes 27/09 hasta las 23:59 hs."
+  },
+  {
+   "id": 1617,
+   "type": "message",
+   "date": "2021-09-19T19:54:37",
+   "from": "Lucas Galdame",
+   "from_id": "user1106773171",
+   "text": "buenisimo profe gracias!!"
+  },
+  {
+   "id": 1618,
+   "type": "message",
+   "date": "2021-09-19T20:27:59",
+   "from": "Arian M",
+   "from_id": "user597215828",
+   "text": "Ok profe 👍🏻"
+  },
+  {
+   "id": 1625,
+   "type": "message",
+   "date": "2021-09-20T18:15:27",
+   "from": "Gabriel Arenas 🇦🇷",
+   "from_id": "user192620519",
+   "text": "Buenas tardes chicos,  arrancamos meet a las 19 hs,  tengo que resolver un problema técnico con mysql"
+  },
+  {
+   "id": 1626,
+   "type": "message",
+   "date": "2021-09-20T18:25:43",
+   "from": "Santiago Martinez",
+   "from_id": "user807010702",
+   "file": "(File not included. Change data exporting settings to download.)",
+   "mime_type": "application/x-ipynb+json",
+   "text": ""
+  },
+  {
+   "id": 1627,
+   "type": "message",
+   "date": "2021-09-20T18:56:08",
+   "from": "Gabriel Arenas 🇦🇷",
+   "from_id": "user192620519",
+   "text": "Estoy actualizando mysql a la versión 8.0.26  ya que he tenido problemas con el mysql connector/Net que no está en 64 bits para bajar (solo en 32 bits)"
+  },
+  {
+   "id": 1629,
+   "type": "message",
+   "date": "2021-09-27T18:11:46",
+   "from": "Gabriel Arenas 🇦🇷",
+   "from_id": "user192620519",
+   "text": "Hola chicos,  buenas tardes,  arrancamos el meet a las 19 hs"
+  },
+  {
+   "id": 1630,
+   "type": "message",
+   "date": "2021-09-27T18:12:17",
+   "from": "Yago",
+   "from_id": "user810386556",
+   "text": "Hola profe, ok"
+  },
+  {
+   "id": 1631,
+   "type": "message",
+   "date": "2021-09-27T18:13:25",
+   "from": "Lautaro (Facu)",
+   "from_id": "user858971037",
+   "text": "Hola profe nos vemos a las 19"
+  },
+  {
+   "id": 1632,
+   "type": "message",
+   "date": "2021-09-27T20:21:52",
+   "from": "Gabriel Arenas 🇦🇷",
+   "from_id": "user192620519",
+   "text": "Les dejo los links a videos y material en PowerBi"
+  },
+  {
+   "id": 1633,
+   "type": "message",
+   "date": "2021-09-27T20:22:06",
+   "from": "Gabriel Arenas 🇦🇷",
+   "from_id": "user192620519",
+   "text": [
+    "El video que vimos: ",
+    {
+     "type": "link",
+     "text": "https://www.youtube.com/watch?v=TXZfkgRhy3s"
+    }
+   ]
+  },
+  {
+   "id": 1634,
+   "type": "message",
+   "date": "2021-09-27T20:25:27",
+   "from": "Gabriel Arenas 🇦🇷",
+   "from_id": "user192620519",
+   "text": [
+    "Este otro ejemplo del que les hable,  panel del clásico de futbol                                                       ",
+    {
+     "type": "link",
+     "text": "https://www.youtube.com/watch?v=Yl9VEY-zkYk"
+    },
+    ""
+   ]
+  },
+  {
+   "id": 1635,
+   "type": "message",
+   "date": "2021-09-27T20:29:53",
+   "from": "Gabriel Arenas 🇦🇷",
+   "from_id": "user192620519",
+   "text": [
+    "En esta página,  encuentran datasets de diferentes orígenes,  para realizar análisis con las herramientas de BI                                                                                               ",
+    {
+     "type": "link",
+     "text": "https://www.kaggle.com/datasets"
+    },
+    ""
+   ]
+  },
+  {
+   "id": 1644,
+   "type": "message",
+   "date": "2021-09-27T23:31:26",
+   "from": "Gabriel Arenas 🇦🇷",
+   "from_id": "user192620519",
+   "text": "Chicos,  ya está en la cátedra virtual,  el trabajo practicoIntegrador-DW.pdf   Concluido ese trabajo,  envían todos los archivos comprimidos (por correo electrónico o mensaje privado).  Van a encontrar el archivo en la carpeta Material Clases año 2021.  Cualquier duda,  me consultan.  El trabajo deben presentarlo a más tardar el martes 05/10/2021 a las 23:59 min."
+  }
+ ]
+}
